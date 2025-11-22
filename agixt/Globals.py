@@ -71,7 +71,6 @@ def getenv(var_name: str, default_value: str = "") -> str:
         "RESTART_COOLDOWN": "60",
         "INITIAL_STARTUP_DELAY": "180",
         "EXTENSIONS_HUB": "",
-        "EXTENSIONS_HUB_TOKEN": "",
         "PAYMENT_WALLET_ADDRESS": "BavSLrHbzcq5QdY491Fo6uC9rqvfKgszVcj661zqJogS",
         "PAYMENT_SOLANA_RPC_URL": "https://api.mainnet-beta.solana.com",
         "MONTHLY_PRICE_PER_USER_USD": "0",

@@ -165,7 +165,6 @@ def get_default_env_vars():
         "INITIAL_STARTUP_DELAY": "180",
         # Extensions configuration
         "EXTENSIONS_HUB": "",
-        "EXTENSIONS_HUB_TOKEN": "",
         # Payment configuration
         "PAYMENT_WALLET_ADDRESS": "BavSLrHbzcq5QdY491Fo6uC9rqvfKgszVcj661zqJogS",
         "PAYMENT_SOLANA_RPC_URL": "https://api.mainnet-beta.solana.com",
